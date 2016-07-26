@@ -27,9 +27,9 @@ fn main() {
     for file in BOTS {
         chain.feed_file(format!("data/bots/{}.txt", file));
     }
-    for file in ENGLISH {
-        chain.feed_file(format!("data/english/{}.txt", file));
-    }
+    // for file in ENGLISH {
+    //     chain.feed_file(format!("data/english/{}.txt", file));
+    // }
 
     use std::io;
     use std::io::Write;
