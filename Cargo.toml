@@ -1,0 +1,9 @@
+[package]
+authors = ["Pascal Hertleif <killercup@gmail.com>"]
+name = "recycle_ebooks"
+version = "0.1.0"
+
+[dependencies]
+dotenv = "0.8.0"
+markov = "0.0.32"
+rayon = "0.4.0"
