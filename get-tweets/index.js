@@ -19,7 +19,8 @@ const SOURCES = [
   // "EuphemismBot",
   // "TheStrangeLog",
   // "HNTitles",
-  "TwoHeadlines",
+  // "TwoHeadlines",
+  "UnitOfSelection",
 ];
 
 function getTweets(userName, max_id) {
@@ -32,7 +33,7 @@ function getTweets(userName, max_id) {
     client.get('statuses/user_timeline', {
       screen_name: userName,
       exclude_replies: true,
-      include_trs: false,
+      include_rts: true,
       contributor_details: false,
       trim_user: true,
       count: 200,

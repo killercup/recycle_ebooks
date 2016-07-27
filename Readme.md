@@ -12,3 +12,8 @@
 - Elders will worship yesterday.
 - A governess owns a shotgun or boat.
 - He finds out of a solar system.
+- Chocolate rain, all over Miami. A 'CSI' Finale
+- Hey, quit the tasty fridge, if you secretly.
+- Hey Drosophila, what's wrong?
+- A dictionary definition, that replaces Javascript, HTML, CSS, and addiction appears in JavaScript Tools and becomes the jukebox!
+

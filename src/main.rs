@@ -2,7 +2,7 @@ extern crate markov;
 
 use markov::Chain;
 
-const BOTS: &'static [&'static str; 9] = &[
+const BOTS: &'static [&'static str; 10] = &[
     "_ireallyneedto",
     "MagicRealismBot",
     "sixworderbot",
@@ -12,6 +12,7 @@ const BOTS: &'static [&'static str; 9] = &[
     "HNTitles",
     "TwoHeadlines",
     "thewaybot",
+    "UnitOfSelection",
 ];
 
 const ENGLISH: &'static [&'static str; 3] = &[
